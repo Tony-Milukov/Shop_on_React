@@ -33,8 +33,8 @@ const initialState = {
                 gender: "man",
                 type: "accessories",
                 description : "",
-                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
                 },
                 {
                     ID: getID(),
@@ -43,8 +43,9 @@ const initialState = {
                     name: "bracelet",
                     description: "",
                     price: 25,
-                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"] },
+                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+                },
 
             ],
             woman : [
@@ -55,8 +56,8 @@ const initialState = {
                     name: "bracelet (woman)",
                     price: 30,
                     description : "",
-                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
                 },
               {
                 ID: getID(),
@@ -65,9 +66,9 @@ const initialState = {
                 name: "bracelet (woman)",
                 price: 30,
                 description : "",
-                mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
-            },
+                  mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                  fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+              },
                 {
                     ID: getID(),
                     gender: "woman",
@@ -75,8 +76,9 @@ const initialState = {
                     name: "bracelet (woman) - 2",
                     price: 30,
                     description : "",
-                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]  },
+                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+                },
                 {
                     ID: getID(),
                     gender: "woman",
@@ -84,8 +86,10 @@ const initialState = {
                     name: "bracelet (woman) - 3",
                     price: 30,
                     description : "",
-                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]    },],
+                    mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                    fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+
+                },],
             kids: [],
         },
         bags : {
@@ -96,8 +100,8 @@ const initialState = {
                 name: "Bag",
                 price: 30,
                 description : "",
-                mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+                mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
             },],
             woman : [],
             kids: [],
@@ -110,8 +114,8 @@ const initialState = {
                 name: "denim",
                 price: 30,
                 description : "",
-                mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+                mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
             },],
             woman : [],
             kids: [],
@@ -124,8 +128,8 @@ const initialState = {
                 name: "T-shirt",
                 price: 30,
                 description : "",
-                mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/main.webp",
-                fotos: ["https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/React-Shop/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
+                mainFoto: "https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/main.webp",
+                fotos: ["https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView2.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/2.5mmFranco_5mmCubanGoldView3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFranco1.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold3.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGold5.webp","https://raw.githubusercontent.com/Tony-Milukov/Shop_on_React/main/my-app/src/productImages/%231/CubanFrancoGoldBoxed.webp"]
             },],
             woman : [],
             kids: [],
