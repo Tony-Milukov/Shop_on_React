@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e775c4e.css",
+    "main.js": "/static/js/main.7eaf1595.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/man-top-back.png": "/static/media/man-top-back.b1e6f17fc411901e00e5.png",
+    "static/media/woman-product.png": "/static/media/woman-product.04094be448280021a86c.png",
+    "static/media/back-footer.jpg": "/static/media/back-footer.8010fe4ec7ace9e6fec7.jpg",
+    "static/media/Accecories.jpg": "/static/media/Accecories.11318593e7aad4d3ae97.jpg",
+    "static/media/for-man.jpg": "/static/media/for-man.2b86bc4a46a5130f8fa9.jpg",
+    "static/media/for-woman.jpg": "/static/media/for-woman.463b0d84a72a7bd04a31.jpg",
+    "static/media/for-kids.jpg": "/static/media/for-kids.d3eb9a154c709a23d02f.jpg",
+    "static/media/logo.svg": "/static/media/logo.c4a51b8a3b2a1404cd30fe357e18df79.svg",
+    "static/media/mobile-menu-icon-cart.svg": "/static/media/mobile-menu-icon-cart.fc62b88c53b20b164f6a6453bf8c07aa.svg",
+    "static/media/mobile-menu-icon-my-profule.svg": "/static/media/mobile-menu-icon-my-profule.86b892fe935195acb3e7d500390c11af.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.c6efde243e0e49e885789707b325f7cf.svg",
+    "index.html": "/index.html",
+    "static/media/burger-menu.svg": "/static/media/burger-menu.eba51d0f059e7b0d23f0.svg",
+    "main.3e775c4e.css.map": "/static/css/main.3e775c4e.css.map",
+    "main.7eaf1595.js.map": "/static/js/main.7eaf1595.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e775c4e.css",
+    "static/js/main.7eaf1595.js"
+  ]
+}
