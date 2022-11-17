@@ -17,7 +17,6 @@ const Router = () => {
                 <HeaderMenu/>
                 <Routes>
                     <Route path={"/"} element={<HomePage/>}></Route>
-
                     <Route path={"/cart"} element={<CartPage/>}></Route>
                     <Route path={"/filtered"} element={<Filtered/>}>
                     </Route>
