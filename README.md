@@ -1,5 +1,5 @@
 # Install:
-1. Install node.js > tutorial (https://www.youtube.com/watch?v=qYwLOXjAiwM)
+1. Install node.js > npm install > npm audit
 2. Download this project
 3. Open it with php.storm or other code editor.
 4. Open terminal in code editor
